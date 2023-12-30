@@ -1,4 +1,4 @@
-# Welcome to the YourFirstPull Repository!
+# Welcome to the DevSkillForge Repository!
 
 We're excited to have you here! This project is beginner-friendly, and we encourage you to contribute by opening your first pull request.
 
@@ -10,7 +10,7 @@ We're excited to have you here! This project is beginner-friendly, and we encour
 
 ### Clone the Repository
 
-1. git clone https://github.com/NexusNimbus/yourFirstPull.git
+1. git clone https://github.com/NexusNimbus/DevSkillForge.git
 2. cd yourFistPull
 
 ### Create a New Branch
@@ -34,7 +34,7 @@ git push origin your-feature-branch
 
 I think a Assigning a good task to you will make you more better tounderstand How Github Flow Works.
 
-This Is a simple Task to all the beginners who Wants to get into Our YourFirstPull Project.
+This Is a simple Task to all the beginners who Wants to get into Our DevSkillForge Project.
 This is how you can do it :
 - 
 1. Fork Our Repo as it is mentioned in our Readme file .
