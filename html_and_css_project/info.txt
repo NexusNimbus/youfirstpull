@@ -1,0 +1,14 @@
+Greetings Contributers!
+
+This is a sample project for the newbie web developers to enhance thier HTML and CSS skills. You can contribute 
+in making this web page look better with your web development and designing skills.
+
+
+**About the Project**
+
+
+This is a Web Page featuring all the Contributers of a upcoming repo, you can enhance the page, 
+adding new features and improving the design of the page. You can add your name and profile pic to the page.
+
+
+Hoping to see some intresting and valuable contributions!
