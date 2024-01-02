@@ -1,0 +1,82 @@
+body {
+    background-image: url(https://images.saymedia-content.com/.image/t_share/MTkyOTkyMzE2OTQ3MjQ0MjUz/website-background-templates.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    box-sizing: content-box;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.C1 {
+    background-image: url(https://images.saymedia-content.com/.image/t_share/MTkyOTkyMzE2OTQ3MjQ0MjUz/website-background-templates.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    align-self: center;
+    
+    justify-content: space-between; /* Spread items to both ends */
+}
+
+
+
+#myimg img {
+    width: auto;
+    border-radius: 50%;
+    order: 0;
+    
+}
+
+#name{
+
+
+    float: right;
+    width: fit-content;
+    order: 1;
+    text-align: center;
+}
+
+
+
+
+.C2 {
+    background-image: url(https://images.saymedia-content.com/.image/t_share/MTkyOTkyMzE2OTQ3MjQ0MjUz/website-background-templates.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    align-self: center;
+    text-align: center;
+}
+
+#myimg1 {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%; /* Set a width as needed */
+}
+
+#myimg1 img {
+    width: auto;
+    border-radius: 50%;
+}
