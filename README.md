@@ -41,16 +41,23 @@ This is how you can do it :
 2. Then go to the 'Contributors.md'
 3. there You Fill Found Lots of Contributors You have to add your Name there
 4. YOu name must not be in the Starting of the file .
-
-   Process to Add Your Name :
-   -
-   1. [Your Name](Link to Your Profile)
-   2. [Your Proflie Photo](Link Of your Profile Photo)
-
-   You will get These Lines in 'Contributors.md' just Copy them a fill Your Details with it.
-   - HOW TO GET PROFILE LINK : in Github open Your Profile Tab then Copy the link
-   - HOW TO GET PROFILE PHOTO LINK : in same Page on the top of the Lest corner you will find your profile photo just Right click to your mouse and copy image link and Paste it To Here.
-
+5. Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
+   ```
+         <td align="center">
+            <a href="https://github.com/CodeYard01">
+               <img src="https://github.com/CodeYard01.png" width="100px;" alt="Kartikey Saran"/>
+               <br />
+               <sub><b>Kartikey Saran</b></sub>
+            </a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/sudo-anshul">
+               <img src="https://github.com/sudo-anshul.png" width="100px;" alt="Anshul Kushwaha"/>
+               <br />
+               <sub><b>Anshul Kushwaha</b></sub>
+            </a>
+         </td>
+   ```
 ### Create a Pull Request :
     
   Visit your forked repository on GitHub.
